@@ -8,6 +8,8 @@ Furthermore, i intend to create what essentially amounts to a bootstrapping scri
 
 ### Note
 
-The credits for the utilities in this repo go to their original authors of course, as stated, this is just a list curated by me for convenience.
+I plan on expanding this repo over time. However due to limitations on file sizes when uploading content to github i will probably write a `JSON`,`XML` or just a plaintext file consisting of a list of URLs to be iterated over and downloaded with a script. That way, i can ensure we have a comprehensive catalog of tools and utilities while bypassing some of the restrictions.  
+
+As mentioned, the credit goes to the original authors of course, as i stated earlier, this is just a list curated by me for our convenience.
 
 Regardless, should you have any questions surrounding the contents and/or purpose of this repo please feel free to open a ticket.
