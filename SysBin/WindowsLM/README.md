@@ -1,5 +1,5 @@
 # BlockWindows
-Stop Windows 7 through 10 Nagging and Spying updates, Tasks, IPs, and services. Works with Windows 7 through 10( As of Win10 most operations performed by this script do not work properly)
+Stop Windows 7 through 10 Nagging and Spying updates, Tasks, IPs, and services. Works with Windows 7 through 10(As of Win10 and a number of updates to it, most operations performed by this script do not work properly on that version anymore)
 
 FILES
 -----
