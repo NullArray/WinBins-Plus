@@ -12,5 +12,12 @@ FILES
 5. HideWindowsUpdates.vbs : Hides blocked updates, to reinstall click 'show hidden updates'
 6. DisableWiFiSense.reg : disable WiFi password sharing
 
---
-https://blockwindows.wordpress.com/ created the original code
+### Acknowledgement
+The owner of this website created the original code for this project as well.
+
+https://blockwindows.wordpress.com/ 
+
+
+### Note
+
+I am working on a set of scripts that will be effective on Win10 as well. Those files will be posted in a repo of their own as well as in a directory in this repo. Since this is my Windows resources directory.
