@@ -5,4 +5,4 @@ A PAC Script, A PowerShell HTTP Server to serve the PAC Data, a batch file to re
 and commands to manually add a scheduled task to start at log on and to persistently do so.
 
 ### Note
-These scripts are somewhat of an Alpha release. Expension amd updates are forthcoming.
+These scripts are somewhat of an Alpha release. Expension and updates are forthcoming.
