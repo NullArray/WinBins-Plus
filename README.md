@@ -7,7 +7,7 @@ This repo was created as a place to store a number of Windows PE's, Utilities an
 ### Update
 
 In the PenTest Directory i have uploaded some pre-built PE's that might come in handy during an active engagement where a
-Windows box is theprimary target.
+Windows box is the target.
  
 ### Note
 
